@@ -9,7 +9,7 @@ A CRA to interact with Open Street Map.
 - Leaflet React Library
 
 ### Live Demo
-[https://master--iridescent-lily-fc4082.netlify.app/](https://mapup-assignment-frontend.netlify.app/)
+[Neltify Link for Project](https://mapup-assignment-frontend.netlify.app/)
 
 ### Screenshots
 <img width="920" alt="image" src="https://github.com/DivyanshSareen/mapup-assignment/assets/59335572/982b3a62-dfa7-4e1b-80d8-c70f92f58c1a">
